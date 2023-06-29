@@ -1,4 +1,6 @@
-![Atef on Automation Testing](https://raw.githubusercontent.com/AtefKhess/AtefKhess/main/header.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AtefKhess/AtefKhess/main/header.png" alt="MasterHead">
+</p>
 
 ### Hi, I'm Atef👋
 I am an automation testing engineer with a passion for ensuring software quality through efficient and reliable test automation. With expertise in Selenium Java and Playwright JavaScript frameworks, I specialize in building robust and scalable test automation solutions following industry best practices.
